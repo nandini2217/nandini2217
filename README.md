@@ -3,6 +3,7 @@
 **Data Analyst | SQL & Python | Data Analytics, ETL & Dashboarding**
 
 🔗 LinkedIn: https://www.linkedin.com/in/nandini-k-76470a395/
+
 🔗 GitHub: https://github.com/nandini2217
 
 ---
