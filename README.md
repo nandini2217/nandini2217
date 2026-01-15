@@ -17,20 +17,33 @@ Project experience includes credit risk analytics, data automation, and scalable
 
 ## 🛠️ Skills & Tools
 
-**Programming & Querying:**  
-SQL, Python (Pandas, NumPy)
+### Programming & Querying
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white)
 
-**Data Analytics:**  
-Data Analysis, Data Wrangling, Exploratory Data Analysis (EDA), Statistical Analysis, Predictive Analytics
+### Data Analytics
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-4CAF50?style=flat)
+![EDA](https://img.shields.io/badge/EDA-2E7D32?style=flat)
+![Statistical Analysis](https://img.shields.io/badge/Statistical%20Analysis-1B5E20?style=flat)
+![Predictive Analytics](https://img.shields.io/badge/Predictive%20Analytics-0D47A1?style=flat)
 
-**Visualization & Reporting:**  
-Power BI, Tableau, Excel (Advanced), Dashboard Development
+### Visualization & Reporting
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![Dashboarding](https://img.shields.io/badge/Dashboard%20Development-1565C0?style=flat)
 
-**Data Engineering & Automation:**  
-ETL Pipelines, Data Automation, Workflow Automation (n8n)
+### Data Engineering & Automation
+![ETL](https://img.shields.io/badge/ETL%20Pipelines-6A1B9A?style=flat)
+![Data Automation](https://img.shields.io/badge/Data%20Automation-4527A0?style=flat)
+![n8n](https://img.shields.io/badge/n8n-FF6D00?style=flat&logo=n8n&logoColor=white)
 
-**Tools & Platforms:**  
-Docker, Kubernetes, Streamlit, Git, PostgreSQL, MySQL
+### Tools & Platforms
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
