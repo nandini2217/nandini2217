@@ -80,14 +80,6 @@ My work focuses on solving **real-world analytics problems** using modern data t
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nandini2217&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nandini2217&layout=compact)
-
----
-
 ## 📊 What I Like Building
 
 • Data Analytics Projects  
